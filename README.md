@@ -1,7 +1,6 @@
 # Contradictory, My Dear Watson - Natural Language Inferencing Project Overview
 - Implemented BERT multilingual model to classify sentence pair relationships as 'entailed', 'contradictory' or 'neutral' across several languages with ~64% accuracy.
 - This project is currently in progress, looking to compare and optimize several NLP models in order to improve accuracy and deepen understanding of NLP and Tensorflow.
-- BERT implementation adapted from tutorial notebook by Ana Uzsoy: https://www.kaggle.com/code/anasofiauzsoy/tutorial-notebook/notebook
 - Project versions will be periodically uploaded to relevant Kaggle competition: https://www.kaggle.com/competitions/contradictory-my-dear-watson/overview
 
 ## Code and Resources Used
